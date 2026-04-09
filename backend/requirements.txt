@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+tortoise-orm
+aiomysql
+cryptography
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
